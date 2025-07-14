@@ -1,0 +1,31 @@
+{
+  "format": "CHIP-0007",
+  "sensitive_content": false,
+  "name": "Rule34 #94",
+  "description": "Captured in NFT an exclusive moment that happen behind the universes\u0027 curtains.",
+  "series_number": 94,
+  "collection": {
+    "id": "8a3c13c4-19f1-445b-bea0-ad2a0d69c0d0",
+    "name": "Rule34",
+    "attributes": [
+      {
+        "type": "description",
+        "value": "This isn\u0027t just another NFT set. These are forbidden digital artifacts, capturing those moments that happen behind the universes\u0027 curtains. Each token is a bold suggestion, frozen on the edge between explicitness and art."
+      },
+      {
+        "type": "icon",
+        "value": "https://raw.githubusercontent.com/LettersUniverse/Rule34/refs/heads/main/logo.png"
+      },
+      {
+        "type": "banner",
+        "value": "https://raw.githubusercontent.com/LettersUniverse/Rule34/refs/heads/main/Bannere.png"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "Number of heroines",
+      "value": "2"
+    }
+  ]
+}
